@@ -1,5 +1,5 @@
 # Markdown CSS
-CSS style for beautiful markdown.
+CSS style for nicely formatted markdown exports (pdf/html)
 
 ## Example
-![screenshot.png]
+![Example Image](screenshot.png)
