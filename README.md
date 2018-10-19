@@ -1,9 +1,6 @@
 # Markdown CSS
 CSS style for nicely formatted markdown exports (pdf/html)
 
-## Example
-![Example Image](screenshot.png)
-
 ## Tested with
 - VS Code - Markdown Preview (builtin)
 - VS Code - Markdown PDF (Extension)
@@ -25,3 +22,6 @@ Add this line to your `settings.json`. Adjust path to your CSS file.
 ```markdown
 "markdown-pdf.styles": ["PATH_TO_YOUR_FILE"]
 ```
+
+## Example
+![Example Image](screenshot.png)
