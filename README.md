@@ -11,7 +11,7 @@ CSS style for nicely formatted markdown exports (pdf/html)
 
 Add this line to your `settings.json`.  Adjust path to your CSS file. On Windows global paths (e.g. `C:\\Users\\...`) seem not to work. You can upload the CSS file and include an URL as file path.
 
-```markdown
+```json
 "markdown.styles": ["PATH_TO_YOUR_FILE"],
 ```
 
@@ -19,7 +19,7 @@ Add this line to your `settings.json`.  Adjust path to your CSS file. On Windows
 
 Add this line to your `settings.json`. Adjust path to your CSS file.
 
-```markdown
+```json
 "markdown-pdf.styles": ["PATH_TO_YOUR_FILE"]
 ```
 
