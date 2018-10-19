@@ -31,18 +31,18 @@ ___
 
 #### Todo Lists
 
-[x] Eat
-[x] Sleep
-[ ] Work
-[ ] Repeat
+- [x] Eat
+- [x] Sleep
+- [ ] Work
+- [ ] Repeat
 
 ### Tables
 
-Item  | Amount | Price
-----  | -----: | -----:
-Bread | 1      | 2.00 $
-Milk  | 2      | 3.00 $
-Sugar | 1      | 1.00 $
+| Item  | Amount | Price  |
+| ----- | -----: | -----: |
+| Bread | 1      | 2.00 $ |
+| Milk  | 2      | 3.00 $ |
+| Sugar | 1      | 1.00 $ |
 
 ### Code 
 
